@@ -1,8 +1,10 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 40px;
+.introduction {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
 }
 
-h1 {
-    font-size: 32px;
+.introduction h2 {
+    margin-top: 0;
 }
